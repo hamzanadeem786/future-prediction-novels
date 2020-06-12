@@ -1,0 +1,11 @@
+download book
+{
+	https://manybooks.net/books/get/133022/6
+}
+
+https://www.gutenberg.org/files/1059/1059-h/1059-h.htm
+
+https://astrofella.wordpress.com/2018/11/14/the-world-set-free-h-g-wells/
+
+
+https://link.springer.com/chapter/10.1007/978-1-349-04146-6_16
